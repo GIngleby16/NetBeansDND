@@ -1,6 +1,8 @@
 # NetBeansDND
 NetBeans Window Manager with support for splitting floating frames
 
+see: <http://gingleby.com/2017/11/08/a-customized-netbeans-window-manager-drag-drop-top-components-in-floating-separated-windows/>
+
 ### core.windows:
 Updated to support AuxWindows.  ModesSubModel updated to associate a Mode to a window.  ZOrder support corrected.
 
