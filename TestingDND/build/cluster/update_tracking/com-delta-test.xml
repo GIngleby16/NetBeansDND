@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.delta.test">
+    <module_version install_time="1557853856514" last="true" origin="installer" specification_version="1.0">
+        <file crc="2342632394" name="config/Modules/com-delta-test.xml"/>
+        <file crc="3052152713" name="modules/com-delta-test.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.delta.wmspy">
+    <module_version install_time="1557853856884" last="true" origin="installer" specification_version="1.0">
+        <file crc="1075880524" name="config/Modules/com-delta-wmspy.xml"/>
+        <file crc="2535296712" name="modules/com-delta-wmspy.jar"/>
+    </module_version>
+</module>

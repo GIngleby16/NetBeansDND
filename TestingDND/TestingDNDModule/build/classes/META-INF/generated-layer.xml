@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="com_delta_test">
+                <file name="ac" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.delta.test.acTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.delta.test//ac//EN"/>
+                </file>
+                <file name="fb" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.delta.test.fbTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.delta.test//fb//EN"/>
+                </file>
+                <file name="rss" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.delta.test.rssTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.delta.test//rss//EN"/>
+                </file>
+                <file name="tw" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.delta.test.twTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.delta.test//tw//EN"/>
+                </file>
+                <file name="user" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.delta.test.userTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.delta.test//user//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="com">
+                <folder name="delta">
+                    <folder name="test">
+                        <file name="acTopComponent">
+                            <!--com.delta.test.acTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_delta_test/ac.instance"/>
+                        </file>
+                        <file name="fbTopComponent">
+                            <!--com.delta.test.fbTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_delta_test/fb.instance"/>
+                        </file>
+                        <file name="rssTopComponent">
+                            <!--com.delta.test.rssTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_delta_test/rss.instance"/>
+                        </file>
+                        <file name="twTopComponent">
+                            <!--com.delta.test.twTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_delta_test/tw.instance"/>
+                        </file>
+                        <file name="userTopComponent">
+                            <!--com.delta.test.userTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_delta_test/user.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="com_delta_test">
+                <file name="ac.instance">
+                    <!--com.delta.test.acTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.delta.test.acTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.delta.test.acTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="fb.instance">
+                    <!--com.delta.test.fbTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.delta.test.fbTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.delta.test.fbTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="rss.instance">
+                    <!--com.delta.test.rssTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.delta.test.rssTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.delta.test.rssTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="tw.instance">
+                    <!--com.delta.test.twTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.delta.test.twTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.delta.test.twTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="user.instance">
+                    <!--com.delta.test.userTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.delta.test.userTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.delta.test.userTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="com-delta-test-acTopComponent.shadow">
+                <!--com.delta.test.acTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-delta-test-acTopComponent.instance"/>
+                <attr intvalue="333" name="position"/>
+            </file>
+            <file name="com-delta-test-fbTopComponent.shadow">
+                <!--com.delta.test.fbTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-delta-test-fbTopComponent.instance"/>
+                <attr intvalue="334" name="position"/>
+            </file>
+            <file name="com-delta-test-rssTopComponent.shadow">
+                <!--com.delta.test.rssTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-delta-test-rssTopComponent.instance"/>
+                <attr intvalue="335" name="position"/>
+            </file>
+            <file name="com-delta-test-twTopComponent.shadow">
+                <!--com.delta.test.twTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-delta-test-twTopComponent.instance"/>
+                <attr intvalue="336" name="position"/>
+            </file>
+            <file name="com-delta-test-userTopComponent.shadow">
+                <!--com.delta.test.userTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-delta-test-userTopComponent.instance"/>
+                <attr intvalue="337" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="acTopComponent.settings">
+                <!--com.delta.test.acTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.delta.test.acTopComponent"/>
+</settings>
+]]></file>
+            <file name="fbTopComponent.settings">
+                <!--com.delta.test.fbTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.delta.test.fbTopComponent"/>
+</settings>
+]]></file>
+            <file name="rssTopComponent.settings">
+                <!--com.delta.test.rssTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.delta.test.rssTopComponent"/>
+</settings>
+]]></file>
+            <file name="twTopComponent.settings">
+                <!--com.delta.test.twTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.delta.test.twTopComponent"/>
+</settings>
+]]></file>
+            <file name="userTopComponent.settings">
+                <!--com.delta.test.userTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.delta.test.userTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="output">
+                <file name="acTopComponent.wstcref">
+                    <!--com.delta.test.acTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="acTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                <file name="twTopComponent.wstcref">
+                    <!--com.delta.test.twTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="twTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="editor">
+                <file name="fbTopComponent.wstcref">
+                    <!--com.delta.test.fbTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="fbTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="rssTopComponent.wstcref">
+                    <!--com.delta.test.rssTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="rssTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                <file name="userTopComponent.wstcref">
+                    <!--com.delta.test.userTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="userTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-delta-test-acTopComponent.instance">
+                <!--com.delta.test.acTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.delta.test.acTopComponent"/>
+                <attr name="preferredID" stringvalue="acTopComponent"/>
+                <attr bundlevalue="com.delta.test.Bundle#CTL_acAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="com/delta/test/images.png"/>
+            </file>
+            <file name="com-delta-test-fbTopComponent.instance">
+                <!--com.delta.test.fbTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.delta.test.fbTopComponent"/>
+                <attr name="preferredID" stringvalue="fbTopComponent"/>
+                <attr bundlevalue="com.delta.test.Bundle#CTL_fbAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="com/delta/test/facebook-icon.png"/>
+            </file>
+            <file name="com-delta-test-rssTopComponent.instance">
+                <!--com.delta.test.rssTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.delta.test.rssTopComponent"/>
+                <attr name="preferredID" stringvalue="rssTopComponent"/>
+                <attr bundlevalue="com.delta.test.Bundle#CTL_rssAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="com/delta/test/icon_rss.gif"/>
+            </file>
+            <file name="com-delta-test-twTopComponent.instance">
+                <!--com.delta.test.twTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.delta.test.twTopComponent"/>
+                <attr name="preferredID" stringvalue="twTopComponent"/>
+                <attr bundlevalue="com.delta.test.Bundle#CTL_twAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="com/delta/test/icon-twitter.gif"/>
+            </file>
+            <file name="com-delta-test-userTopComponent.instance">
+                <!--com.delta.test.userTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.delta.test.userTopComponent"/>
+                <attr name="preferredID" stringvalue="userTopComponent"/>
+                <attr bundlevalue="com.delta.test.Bundle#CTL_userAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="com/delta/test/icon-user.png"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

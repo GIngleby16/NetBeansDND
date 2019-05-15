@@ -1,0 +1,12 @@
+nb-dnd\main\nbbuild\netbeans\platform=1512742155316
+cluster.projects-8.2/TestingDND/build/cluster=1557853856944
+cluster.nb-dnd/main/nbbuild/netbeans/extide=1512403672476
+cluster.nb-dnd/main/nbbuild/netbeans/ide=1512487402646
+cluster.nb-dnd/main/nbbuild/netbeans/java=1512487666253
+cluster.nb-dnd/main/nbbuild/netbeans/platform=1512742155316
+user=1557853856944
+crc=7
+locale=en_US
+branding=testingdnd
+java.version=1.8.0_181
+java.vm.version=25.181-b13
