@@ -23,3 +23,5 @@ Displays a test application with various TopLevel components that can be used fo
 
 ### NOTE:
 Some methods may have had their visiblity changed to public for debugging purposes - these will need to be changed back once the code is working correctly.
+
+This project was based on the NetBeans 8.2 release.  
