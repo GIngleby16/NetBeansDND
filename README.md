@@ -1,4 +1,4 @@
-# NOTE A newer Apache NetBeans Window Manager project can be found here: 
+## _NOTE:_ A newer Apache NetBeans Window Manager project can be found here: 
 https://github.com/GIngleby16/ApacheNetBeansWindowManager
 
 # NetBeansDND
