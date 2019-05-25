@@ -1,5 +1,5 @@
 ## _NOTE:_ A newer Apache NetBeans Window Manager project can be found here: 
-https://github.com/GIngleby16/ApacheNetBeansWindowManager
+https://github.com/GIngleby16/netbeans
 
 # NetBeansDND
 NetBeans Window Manager with support for splitting floating frames.  This project is based on the NetBeans 8.2 code base.
